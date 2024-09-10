@@ -26,7 +26,3 @@ Nesses casos, a tokenização em nível de caractere ou o uso de algoritmos de s
 - **Tokenização:** Segmentação das sentenças em tokens, com opção de limitar o número de exemplos processados.
 - **Vocabulário:** Construção de vocabulários para os idiomas de origem e destino, com base nos tokens.
 - **Treinamento:** Configuração e treinamento do modelo de tradução usando RNNs.
-
-## Execução
-
-Para executar o código deste estudo de caso, siga os passos descritos no notebook `translation_rnn.ipynb`.
